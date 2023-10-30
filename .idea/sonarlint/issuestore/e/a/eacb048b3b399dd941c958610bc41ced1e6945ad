@@ -1,0 +1,7 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹­¼ÿÿÿÿÿ8–¼ø…¸1
+»
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(°·‰æøÿÿÿÿ8®¼ø…¸1
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8¾¼ø…¸1

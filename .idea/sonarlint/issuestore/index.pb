@@ -1,0 +1,23 @@
+
+q
+Aapp/src/main/java/com/example/myapplication/TaskListFragment.java,7\1\714abcd181db2eb20c8afdab2f52ff7cd6389bc3
+l
+<app/src/main/java/com/example/myapplication/TaskStorage.java,e\a\eacb048b3b399dd941c958610bc41ced1e6945ad
+m
+=app/src/main/java/com/example/myapplication/TaskFragment.java,a\b\ab7ef1636b184f593c55ccaba2d2e76f8028e68f
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+m
+=app/src/main/java/com/example/myapplication/MainActivity.java,9\7\97d5d04e52812b9d0ac3b157695041e5f8fbc36a
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+e
+5app/src/main/java/com/example/myapplication/Task.java,e\a\ea311be873d31344cd65964ac70166e7c9e96255
+q
+Aapp/src/main/java/com/example/myapplication/TaskListActivity.java,3\c\3c0aeca5686fbd9ff424adb165b1a14a691d09a9
+
+Oapp/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.java,e\2\e298d4b761a628ccadeb0feeb8081c2eb596f604
+w
+Gapp/src/main/java/com/example/myapplication/SingleFragmentActivity.java,e\f\efd234506525f3bf18ca7d516896ef707c9063c1
